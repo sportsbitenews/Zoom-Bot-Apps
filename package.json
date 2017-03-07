@@ -1,0 +1,21 @@
+{
+  "name": "meetingbot",
+  "version": "1.0.0",
+  "description": "notifications for meeting start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "json": "^9.0.4",
+    "moment": "^2.17.1",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-beta10",
+    "request": "^2.79.0",
+    "sync-request": "^4.0.1"
+  }
+}
